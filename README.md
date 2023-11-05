@@ -8,6 +8,8 @@ This is a Python script that demonstrates the use of the `sqlite3` library to ma
 5. Executes the same SQL queries again to show the updated results.
 6. Commits the changes to the database and closes the connection.
 
+The tables were created and populated in sqlite3. Data in tables is inserted into the code.
+
 The SQL queries used in this script are as follows:
 ### Query 1
 ![image](https://github.com/anyarokh/practicalSQLite1/assets/128834920/7d40ae34-5e86-4170-84eb-ad5afcf17b94)
